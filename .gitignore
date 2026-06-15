@@ -1,0 +1,5 @@
+target/
+maven/
+*.zip
+.vscode/
+*.log
