@@ -15,15 +15,17 @@
 
 ## Cart Page
 
-![Cart](cart-page.png)
+![Cart](food-cart-page.png)
+
+## Customer Details Page
+
+![Order Success](customer-details-page.png)
 
 ## Order Success Page
 
 ![Order Success](orderSuccess-page.png)
 
-## Customer Details Page
 
-![Order Success](customer-details-page.png)
 
 
 ## Technologies Used
